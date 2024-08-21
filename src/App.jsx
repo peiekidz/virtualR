@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './componets/navbar'
+import Navbar from './componets/Navbar'
 import HeroSection from './componets/HeroSection'
 import FeatureSection from './componets/FeatureSection'
 import WorkflowSection from './componets/WorkflowSection'
